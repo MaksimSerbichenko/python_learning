@@ -22,3 +22,5 @@ print(MyObject.str_field)
 print(object1.str_field)
 print(object2.str_field)
 
+print()
+
