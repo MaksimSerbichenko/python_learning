@@ -30,5 +30,6 @@ def main():
     second_circle = Circle.from_rectangle(rectangle)
     print(second_circle)
 
+
 if __name__ == "__main__":
     main()
