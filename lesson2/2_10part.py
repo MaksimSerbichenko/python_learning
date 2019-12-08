@@ -24,10 +24,8 @@ class Bird(Animal):
         self.can_fly = True
 
 
-
 class Pegasus(Horse, Bird):
     pass
-
 
 
 if __name__ == '__main__':

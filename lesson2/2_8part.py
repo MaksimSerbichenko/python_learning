@@ -29,9 +29,3 @@ class Pegasus(Horse, Bird):
 if __name__ == '__main__':
     horse = Horse()
     horse.print_abilities()
-
-    bird = Bird()
-    bird.print_abilities()
-
-    pegasus = Pegasus()
-    pegasus.print_abilities()

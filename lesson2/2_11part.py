@@ -1,4 +1,4 @@
-def check_Instance(obj, cls):
+def check_instance(obj, cls):
     return check_subclass(type(obj), cls)
 
 
